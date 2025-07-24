@@ -3,3 +3,4 @@ transformers
 torch
 moviepy
 pillow
+imageio-ffmpeg
