@@ -1,6 +1,5 @@
 streamlit
 transformers
 torch
-moviepy
+opencv-python-headless
 pillow
-imageio-ffmpeg
